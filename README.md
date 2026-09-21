@@ -1,4 +1,4 @@
-````markdown
+
 # 💰 San Francisco Employee Salary Analysis
 
 ## 📌 Project Overview
@@ -70,4 +70,3 @@ This project helped me practice:
 ```
 
 This version keeps the README **short enough for a recruiter to scan quickly**, while still showing the main data-analysis skills demonstrated in the notebook.
-```
