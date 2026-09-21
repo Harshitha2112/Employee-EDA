@@ -67,6 +67,3 @@ This project helped me practice:
 
 **Harshitha**
 
-```
-
-This version keeps the README **short enough for a recruiter to scan quickly**, while still showing the main data-analysis skills demonstrated in the notebook.
